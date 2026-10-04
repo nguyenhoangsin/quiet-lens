@@ -1,0 +1,24 @@
+.build/
+.swiftpm/
+dist/
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Original product requirements.
+/quiet-lens.md
+
+# The production key lives outside this repository. Ignore accidental local copies too.
+APIKey.json
+
+# Local credentials and machine-specific configuration.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.aws/
+.codex/
+.agents/

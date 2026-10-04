@@ -1,0 +1,8 @@
+Read the question shown in the screenshot.
+
+Give me the best answer.
+Keep the answer short and clear.
+
+If it is multiple choice:
+- show the correct answer first
+- then give a short explanation
